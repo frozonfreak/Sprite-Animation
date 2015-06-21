@@ -1,0 +1,8 @@
+/* Empty. Add your own CSS if you like */
+.spriteWindow{
+  height:450px;
+  width:279.42px;
+  margin:auto;
+  background: url(../images/spritesheet.png);
+  background-position-y: 0px;
+}
