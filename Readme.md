@@ -21,8 +21,8 @@ Sprite animation with Audio, created with ionic framework
 ### Installation
 
 ```sh
-$ git clone https://github.com/frozonfreak/Sprite-Animation sonoport
-$ cd sonoport
+$ git clone https://github.com/frozonfreak/Sprite-Animation animation
+$ cd animation
 $ bower install
 $ npm install
 $ grunt --force
