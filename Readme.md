@@ -2,12 +2,6 @@
 
 Sprite animation with Audio, created with ionic framework
 
-###Timeline
-* Audio library - 4 hrs(ngAudio, howler)
-* Sprite Animation - 2 hrs
-* Put all together - 1 day
-* Compile, Testing ios build - 3 hrs
-
 ### Version
 0.0.1
 
